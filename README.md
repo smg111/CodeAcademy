@@ -2,6 +2,7 @@
 Projects from Code Academy PRO (only).
 ## Python
 - [`madlibs.py`](./python/madlibs.py) prompts user for "fill-in-the-blanks" and creates a story using their input.
+- [`number-guess.py`](./python/number-guess.py) (a game!) prompts ther user to guess a number. They win if the number guessed is greater than the sum of the two rolls of a pair of 7-sided dice. 
 
 ## Java
 - [`personal-library.java`](./java/personal-library.java) prints out complete and incomplete books of a given Library.
